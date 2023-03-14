@@ -3,7 +3,7 @@
 ### Instructions for exercise 1 to 8:
 * Find the command(s) to perform the task.
 * Test it in a terminal.
-* Replace "# Your answer goes here" with the command(s).
+* Replace "# Your answer goes here" with the command(s) (for this you will have to modify this README.md file).
 
 1. Make a directory called first
 ```bash
