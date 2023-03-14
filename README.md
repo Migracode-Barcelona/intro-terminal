@@ -1,9 +1,10 @@
 # { Terminal Basics Exercises. }
 
-### Instructions for exercise 1 to 8:
+### Instructions for exercises 1 to 8:
 * Find the command(s) to perform the task.
 * Test it in a terminal.
-* Replace "# Your answer goes here" with the command(s) (for this you will have to modify this README.md file).
+* Replace "# Your answer goes here" with the command(s).
+  * ➡️ For this you will have to modify this README.md file
 
 1. Make a directory called first
 ```bash
